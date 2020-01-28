@@ -1,0 +1,225 @@
+#calendar
+{
+	font-family:Arial;
+	font-size:20px;
+	width:1000px;
+	table-layout: fixed;
+	border-collapse: collapse;
+	margin: auto;
+	padding: auto;
+}
+
+#c
+{
+	font-family:Arial;
+	font-size:20px;
+	width:1000px;
+	table-layout: fixed;
+	border-collapse: collapse;
+	margin: auto;
+	padding: auto;
+}
+
+#c .link
+{
+	color: blue;
+	width:100px;
+	text-decoration: none;
+	text-align: center;
+}
+
+#calendar caption
+{
+	text-align:left;
+	background-color:#003366;
+	color:#fff;
+	font-weight:bold;
+}
+th
+{
+	text-align: center;
+}
+
+#calendar td .dia
+{
+	text-align:right;
+}
+#calendar td
+{
+	padding:10px 5px;
+	background-color:#F2F2F2;
+	height: 80px;
+	border:black 3px solid;
+	vertical-align: top;
+}
+#calendar .hoy
+{
+	background-color:#F7FE2E;
+}
+.uno
+{
+	font-size: 12px;
+	color: blue;
+}
+.dos
+{
+	font-size: 12px;
+	color: red;
+}
+.tres
+{
+	font-size: 12px;
+	color: green;
+}
+a
+{
+	text-decoration: none;
+	color: black;
+}
+#calendar .link
+{
+	color: blue;
+	width:100px;
+	text-decoration: underline;
+	text-align: center;
+}
+
+.semana
+{
+	border:black 3px solid;
+	background-color:#255C9F;
+	color:#fff;
+	width:100px;
+}
+
+.eventos
+{
+	line-height: 10px;
+}
+
+.titulo-pagina
+{
+	color:#000;
+	font-size: 28px;
+	font-family: Constantia;
+	font-weight: 600;
+}
+.img-titulo
+{
+	margin-top: 0px;
+}
+
+.navbar
+{
+	padding-right: 10px;
+	padding-top: 10px;
+}
+body
+{
+	background: url("fondo2.jpg") no-repeat center center fixed; 
+	background-size: cover;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+.titulo-principal:visited
+{
+	color:#000;
+	text-decoration: none;
+}
+.titulo-principal:hover
+{
+	color:#000;
+	text-decoration: none;
+}
+.button-hide
+{  
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    padding-top: 13px;
+    font-size: 15px;
+    color: red;
+}
+
+.flex
+{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+
+.calendarmobile
+{
+	font-family:Arial;
+	font-size:20px;
+	width:100%;
+	table-layout: fixed;
+	border-collapse: collapse;
+	margin: auto;
+	padding: auto;
+}
+
+.calendarmobile caption
+{
+	text-align:left;
+	background-color:#003366;
+	color:#fff;
+	font-weight:bold;
+}
+
+.calendarmobile td .dia
+{
+	text-align:right;
+}
+
+.calendarmobile td
+{
+	padding:10px 5px;
+	background-color:#F2F2F2;
+	height: 80px;
+	border:black 3px solid;
+	vertical-align: top;
+}
+
+.calendarmobile .hoy
+{
+	background-color:#F7FE2E;
+}
+
+.calendarmobile .link
+{
+	color: blue;
+	width:100px;
+	text-decoration: underline;
+	text-align: center;
+}
+
+.fondoceleste
+{
+	width: 100%;
+	background-color: #255C9F;
+	padding: 20px;
+}
+
+#fondotro
+{
+	color: white;
+	background-color: #255C9F;
+}
+
+#fondotro:hover
+{
+	cursor:pointer;
+    overflow: hidden;
+    background-color: #696766;
+}
+
+#fond
+{
+	background-color: #255C9F;
+	padding: 0px;
+	margin: 0px;
+}

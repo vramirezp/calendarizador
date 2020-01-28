@@ -1,0 +1,226 @@
+.titulo-pagina
+{
+	color:#000;
+	font-size: 28px;
+	font-family: Constantia;
+	font-weight: 600;
+}
+.img-titulo
+{
+	margin-top: 0px;
+}
+
+.navbar
+{
+	padding-right: 10px;
+	padding-top: 10px;
+}
+body
+{
+	background: url("fondo2.jpg") no-repeat center center fixed; 
+	background-size: cover;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+.titulo-principal:visited
+{
+	color:#000;
+	text-decoration: none;
+}
+.titulo-principal:hover
+{
+	color:#000;
+	text-decoration: none;
+}
+.button-hide
+{  
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    padding-top: 13px;
+    font-size: 15px;
+    color: red;
+}
+
+
+
+.flex
+{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.uno
+{
+	font-size: 15px;
+	color: blue;
+	margin-left:10px;
+}
+.dos
+{
+	font-size: 15px;
+	color: red;
+	margin-left:10px;
+}
+.tres
+{
+	font-size: 15px;
+	color: green;
+	margin-left:10px;
+}
+a
+{
+	
+	color: black;
+
+}
+.link a
+{
+	margin-left:10px;
+	padding: 15px;
+	color: black;
+}
+
+.des a
+{
+	margin: 100px;
+}
+
+.link
+{
+	color: blue;
+	width:100px;
+	text-align: center;
+}
+
+.eventos{
+	padding:5px;
+	width: 100%;
+	font-size: 20px;
+	float: right;
+}
+
+.daysem{
+	float: right;
+	font-size: 15px;
+}
+
+.a
+{
+	background-color: #8CA3EC;
+	margin-top: 5px;
+}
+
+.b
+{
+	background-color: #8CA3EC;
+		margin-top: 5px;
+}
+
+.ab
+{
+	background-color: #BCC9F2;
+	margin-top:5px;
+}
+
+.bb
+{
+	background-color: #BCC9F2;
+	margin-top:5px;
+}
+
+.wid
+{
+	width: 100%;
+}
+
+.eve
+{
+	background-color: #E98F79;
+}
+
+.hoy
+{
+	background-color:#F7BFAC;
+}
+
+.fil
+{
+	position:relative;
+	padding: 5px;
+}
+
+.fil:hover
+{
+	background-color: #DCDFE8;
+	text-decoration: none;
+}
+
+.fil a:hover
+{
+	background-color: #DCDFE8;
+	text-decoration: none;
+	display:block;
+	width:100%;
+}
+
+.fil a{
+	display:block;
+	width:100%;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.fondoceleste
+{
+	width: 100%;
+	background-color: #255C9F;
+	padding: 20px;
+}
+
+.fila{
+	text-decoration: underline;
+}
+
+.ab a
+{
+	text-decoration: none;
+}
+
+.bb a
+{
+	text-decoration: none;
+}
+
+.a a
+{
+	text-decoration: none;
+}
+
+.b a
+{
+	text-decoration: none;
+}
+
+#fondotro
+{
+	color: white;
+	background-color: #255C9F;
+}
+
+#fondotro:hover
+{
+	cursor:pointer;
+    overflow: hidden;
+    background-color: #696766;
+}
+
+#fond
+{
+	background-color: #255C9F;
+	padding: 0px;
+	margin: 0px;
+}
