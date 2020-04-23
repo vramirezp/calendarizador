@@ -5,7 +5,7 @@
 	session_start();
 
 	//Conexión a la base de datos para cargar los eventos;
-	$conexion = mysqli_connect('localhost', 'inforcon', 'blackballoon17', 'inforcon_calendario');
+	$conexion = mysqli_connect('localhost', 'root', '', 'inforcon_calendario');
 
 	if (!$conexion) {
 	    echo "Error: No se pudo conectar a MySQL." . PHP_EOL;
